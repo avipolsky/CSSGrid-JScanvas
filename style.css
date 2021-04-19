@@ -10,7 +10,10 @@ opacity: 0.1;
 
 .div1 { grid-area: 1 / 1 / 11 / 13; }
 .div2 { grid-area: 4 / 5 / 5 / 9; }
-.div3 {opacity: 0.5; grid-area: 5 / 5 / 6 / 9; }
+.div3 {
+  grid-area: 5 / 5 / 6 / 9;
+  color: yellow;
+  }
 .div4 { grid-area: 6 / 5 / 7 / 9; }
 .div5 { grid-area: 7 / 6 / 8 / 8; }
 
